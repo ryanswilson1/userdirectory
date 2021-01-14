@@ -1,6 +1,6 @@
 import React from 'react';
 import Card from '../components/Card';
-import { Container } from '../components/Grid';
+import { Container } from '../components/Grid/Container';
 import './employeeDirectory.css';
 
 function EmployeeDirectory(props) {
